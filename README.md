@@ -79,9 +79,6 @@ In this automated version, the computer will randomly choose a shape, and you ge
 ## Contributing 🤝
 We welcome contributions! Feel free to fork the repository, make your changes, and submit a pull request. Let's make this project even better together!
 
-## License 📄
-This project is licensed under the MIT License.
-
 ## Acknowledgments 🙌
 - Wikipedia for the detailed explanation of Rock Paper Scissors.
 - The open-source community for the development tools and libraries.
